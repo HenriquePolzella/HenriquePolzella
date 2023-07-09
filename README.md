@@ -19,11 +19,15 @@ Você também pode me encontrar nas minhas redes socias:
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriquePolzella&show_icons=true&theme=dark&show_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquePolzella&layout=compact&theme=dark&show)
 
-## Tecnologias e ferramentas que eu uso no meu dia-a-dia
+## Tecnologias que uso no meu dia-a-dia
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Henrique-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Henrique-Sql" height="30" width="40" src="http://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg">
+    <img align="center" alt="Henrique-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="Henrique-DOTNET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+    <img align="center" alt="Henrique-.NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
     <img align="center" alt="Henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Henrique-Sql" height="30" width="40" src="http://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg">
+    <img align="center" alt="Henrique-DOCKER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
 </div>

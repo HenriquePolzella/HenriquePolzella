@@ -1,6 +1,6 @@
 ### Olá, meu nome é Henrique sou desenvolvedor júnior, entusiasta em desenvolvimento.
 
-No meu GitHub, você encontrará alguns dos meus projetos e experimentos relacionados a diferentes tecnologias. Como desenvolvedor júnior, estou constantemente estudando e aprimorando minhas habilidades.
+Neste perfil, você encontrará alguns dos meus projetos e experimentos relacionados a diferentes tecnologias. Como desenvolvedor júnior, estou constantemente estudando e aprimorando minhas habilidades.
 
 Uma das principais linguagens que utilizo é o C#, onde tenho me dedicado a aprimorar minhas habilidades de programação orientada a objetos. Também trabalho com bancos de dados e tenho experiência com o Microsoft SQL Server para armazenar e gerenciar informações.
 

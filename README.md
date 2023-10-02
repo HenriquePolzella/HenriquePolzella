@@ -13,7 +13,7 @@ Como desenvolvedor júnior, sei que ainda tenho muito a aprender, mas estou comp
 Você também pode me encontrar nas minhas redes socias:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/h.polzella)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/henrique-polzella-b2841a197)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-polzella-b2841a197/)
 ##
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriquePolzella&show_icons=true&theme=dark&show_private=true)

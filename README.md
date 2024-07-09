@@ -1,4 +1,4 @@
-### Olá, meu nome é Henrique sou desenvolvedor júnior, entusiasta em desenvolvimento.
+### Olá, meu nome é Henrique sou desenvolvedor fullstack.
 
 Neste perfil, você encontrará alguns dos meus projetos e experimentos relacionados a diferentes tecnologias. Como desenvolvedor júnior, estou constantemente estudando e aprimorando minhas habilidades.
 
